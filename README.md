@@ -1,5 +1,6 @@
-
 # Free and Open Source Software Library
+
+See also CONTRIBUTING.md
 
 ## Primary purpose
 
@@ -7,12 +8,11 @@ This repository holds a collection of works about free and open source
 software, broadly conceived.  We collect here a wide variety of types of
 works.  These works are collected here primarily as course material which
 instructors and students can use in the Humanitarian Free and Open Source
-Software Development (HFOSS) course (IGME-582) course, offered by the
-Rochester Institute of Technology's (RIT) School of Interactive Games and
-Media (IGM) [** PLEASE REVIEW: Explicitly name cultures course at this
-point?  **], but also to serve other courses in the FOSS minor offered by
-IGM at RIT, and then beyond that as a more broadly useful open education
-resource (OER).
+Software Development (HFOSS) course (IGME-582), offered by the Rochester
+Institute of Technology's (RIT) School of Interactive Games and Media (IGM)
+[** PLEASE REVIEW: Explicitly name cultures course at this point?  **], but
+also to serve other courses in the FOSS minor offered by IGM at RIT, and
+then beyond that as a more broadly useful open education resource (OER).
 
 As such a collection of resources, it is both about FOSS, and meant to
 exemplify a FOSS approach, being collected, maintained, and distributed as
@@ -38,10 +38,10 @@ but only after careful review.
 ## Acceptable licenses
 
 This library, the companion course material alongside which it is used, and
-the bibliography repository which makes reference to it are all meant to be
-available under licensing that supports their broad redistribution.  So, a
-minimum level of permissions would be those extended by any of the Creative
-Commons (CC) licenses.
+the bibliographic repository which makes reference to it are all meant to be
+available under licensing that supports broad redistribution of their
+contents.  So, a minimum level of permissions would be those extended by any
+of the Creative Commons (CC) licenses.
 
 What's more, in the spirit of providing material on which further work can
 be built, we will prioritize the inclusion of works under more permissive
@@ -59,10 +59,16 @@ use.  This is not because of any opposition to the fair use mechanism, but
 in appreciation of its limitations.
 
 One consideration in excluding works here under fair use is that we do not
-want to entangle use of this library with questions as to how adoption and
-redistribution of this library affects the market for the work (one of the
-considerations for fair use). That is a question that might hinge on very
-narrow consideration of an exact usage scenario (eg, if it is used for a
-class, how many students are in the class? Is the material distributed only
-to the students, or made publically available?). We do not want encumber
+want to entangle downstream use of this library with questions as to how
+adoption and redistribution of this library affects the market for the work
+(one of the considerations for fair use).  That is a question that might
+hinge on very narrow consideration of an exact usage scenario (eg, if it is
+used for a class, how many students are in the class?  Is the material
+distributed only to the students, or made publically available?).
+
+## License of this collection
+
+Any copyright uniquely inherent to this collection or to works created for
+this collection (eg, this README.md file) will be licensed CC-BY-SA, for
+which see the file LICENSE.
 
