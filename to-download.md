@@ -1,4 +1,23 @@
 
+
+
+
+<http://opentechschool.github.io/python-beginners/en/getting_started.html>
+
+<https://github.com/opentechschool/python-beginners> 
+
+various videos and other writings of RMS, ESR, Moglen, Sanders, Kuhn, mako, vmbrasseur, ...
+
+SICP?
+
+Downloaded
+
+The Emerging Economic Paradigm of Open Source, Bruce Perens, CC-BY-NC-ND
+
+<http://firstmonday.org/ojs/index.php/fm/article/view/1470/1385>
+
+<https://web.archive.org/web/20170104073401/http://firstmonday.org/ojs/index.php/fm/article/view/1470/1385>
+
 Open Sources diBona et al O'Reilly
 
 <http://www.oreilly.com/openbook/opensources/book/>
@@ -38,8 +57,4 @@ the new dive into python book
 Simon Tatham on bugs
 
 <https://www.chiark.greenend.org.uk/~sgtatham/bugs.html>
-
-various videos and writings of RMS, ESR, Moglen, Sanders, Kuhn, mako, vmbrasseur, ...
-
-SICP?
 
